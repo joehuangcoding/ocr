@@ -10,3 +10,6 @@ https://github.com/EriCongMa/awesome-transformer-ocr
 
 
 https://github.com/rsommerfeld/trocr
+
+
+https://github.com/YutingLi0606/HTR-VT/tree/main
